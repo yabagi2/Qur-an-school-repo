@@ -1,1 +1,1 @@
-# Qur-an-school-repo
+# Quran-schools-ng
